@@ -36,6 +36,12 @@ The following cleansing steps were taken before analysis:
 - **Type conversion** — `unit_price` was stored as a string with a leading `$` character. The dollar sign was stripped and the column was cast to `float`
 - **Feature engineering** — A `total` column was derived by multiplying `unit_price` by `quantity`, representing the gross transaction value
 
+## Tools Used
+
+- **Python** — pandas, SQLAlchemy, pymysql
+- **MySQL** — Aggregations, CTEs, Window Functions (RANK, NTILE, LAG), CASE statements, date parsing
+- **Jupyter Notebook** — Data exploration and cleaning workflow
+
 ## Analysis (MySQL)
 
 ### 1. Payment Method Breakdown
