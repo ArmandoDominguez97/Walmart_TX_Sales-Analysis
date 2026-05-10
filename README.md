@@ -7,7 +7,7 @@ This project explores transactional sales data across 100 Walmart locations in t
 
 ## Dataset
 
-- **Source:** Kaggle
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
 - **Values:** 10,051 transactions in original dataset, 9,969 after cleaning.
 - **Duration:** January 2020 - December 2023 *(2019 Q1 data is also present in dataset but excluded in analysis)
 - **Scope:** 100 branches across 98 cities
