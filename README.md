@@ -25,4 +25,13 @@ This project explores transactional sales data across 100 Walmart locations in t
 | `payment_method` | Ewallet, Cash, or Credit Card |
 | `rating` | Customer rating (1–10) |
 | `profit_margin` | Margin applied to the transaction |
-| `total` | Total transaction value (unit_price × quantity) |[^1]: Not included in original dataset.
+| `total` | Total transaction value (unit_price × quantity) |
+
+## Data Cleaning (Python)
+
+The following cleansing steps were taken before analysis:
+
+- **Duplicate removal** — 51 duplicate rows were identified and dropped using `drop_duplicates()`
+- **Null value handling** — 31 rows contained missing values in the `unit_price` and `quantity` columns. These were dropped using `dropna()` in the interest of time, though imputation could be explored as an alternative
+- **Type conversion** — `unit_price` was stored as a string with a leading `$` character. The dollar sign was stripped and the column was cast to `float`
+- **Feature engineering** — A `total` column was derived by multiplying `unit_price` by `quantity`, representing the gross transaction value
