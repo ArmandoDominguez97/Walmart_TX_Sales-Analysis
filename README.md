@@ -27,6 +27,12 @@ This project explores transactional sales data across 100 Walmart locations in t
 | `profit_margin` | Margin applied to the transaction |
 | `total` | Total transaction value (unit_price × quantity) |
 
+## Tools Used
+
+- **Python** — pandas, SQLAlchemy, pymysql
+- **MySQL** — Aggregations, CTEs, Window Functions (RANK, NTILE, LAG), CASE statements, date parsing
+- **Jupyter Notebook** — Data exploration and cleaning workflow
+
 ## Data Cleaning (Python)
 
 The following cleansing steps were taken before analysis:
@@ -35,12 +41,6 @@ The following cleansing steps were taken before analysis:
 - **Null value handling** — 31 rows contained missing values in the `unit_price` and `quantity` columns. These were dropped using `dropna()` in the interest of time, though imputation could be explored as an alternative
 - **Type conversion** — `unit_price` was stored as a string with a leading `$` character. The dollar sign was stripped and the column was cast to `float`
 - **Feature engineering** — A `total` column was derived by multiplying `unit_price` by `quantity`, representing the gross transaction value
-
-## Tools Used
-
-- **Python** — pandas, SQLAlchemy, pymysql
-- **MySQL** — Aggregations, CTEs, Window Functions (RANK, NTILE, LAG), CASE statements, date parsing
-- **Jupyter Notebook** — Data exploration and cleaning workflow
 
 ## Analysis (MySQL)
 
