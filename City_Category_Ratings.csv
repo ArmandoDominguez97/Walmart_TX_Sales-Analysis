@@ -1,0 +1,514 @@
+city,category,average_rating,min_rating,max_rating
+Abilene,"Electronic accessories",8,7.1,8.8
+Abilene,"Fashion accessories",6.2,4,9
+Abilene,"Food and beverages",7,6,8.9
+Abilene,"Health and beauty",9.7,9.7,9.7
+Abilene,"Home and lifestyle",6.1,4,9
+Alamo,"Fashion accessories",6.9,3,9
+Alamo,"Food and beverages",5.2,5.2,5.2
+Alamo,"Health and beauty",8,7.7,8.2
+Alamo,"Home and lifestyle",6.3,3,9
+Alamo,"Sports and travel",7.3,5,10
+Alice,"Electronic accessories",7.3,7.3,7.3
+Alice,"Fashion accessories",5.9,3,9
+Alice,"Food and beverages",7.7,5,9.2
+Alice,"Home and lifestyle",6,4,9
+Alice,"Sports and travel",6.9,6.5,7.9
+Allen,"Electronic accessories",6.4,6.4,6.4
+Allen,"Fashion accessories",6.6,3,9
+Allen,"Food and beverages",5.6,5.6,5.6
+Allen,"Health and beauty",5.9,4.4,7.2
+Allen,"Home and lifestyle",6.2,4,9
+Allen,"Sports and travel",5.5,5.5,5.5
+Amarillo,"Electronic accessories",6.8,5.2,7.8
+Amarillo,"Fashion accessories",6.7,3,9
+Amarillo,"Health and beauty",5.1,5.1,5.1
+Amarillo,"Home and lifestyle",6.4,3,9
+Angleton,"Electronic accessories",7.6,5.1,10
+Angleton,"Fashion accessories",6.1,4,8
+Angleton,"Food and beverages",7.7,6.9,8.5
+Angleton,"Health and beauty",5.1,5.1,5.1
+Angleton,"Home and lifestyle",6.4,3,9.8
+Angleton,"Sports and travel",6.7,4.4,9.7
+Arlington,"Electronic accessories",5.2,4.7,5.5
+Arlington,"Fashion accessories",6.2,3,9
+Arlington,"Food and beverages",7.6,5.5,9.6
+Arlington,"Home and lifestyle",6.3,3,9
+Arlington,"Sports and travel",5.4,4.6,6.2
+Austin,"Electronic accessories",5.5,5.5,5.5
+Austin,"Fashion accessories",7.2,4,9
+Austin,"Food and beverages",9.3,9.3,9.3
+Austin,"Health and beauty",6.6,6.6,6.6
+Austin,"Home and lifestyle",6.8,4,9
+Baytown,"Fashion accessories",6.1,3,9.5
+Baytown,"Health and beauty",5,5,5
+Baytown,"Home and lifestyle",6.4,4,9
+Baytown,"Sports and travel",6.4,4,8.9
+Bedford,"Electronic accessories",6,6,6
+Bedford,"Fashion accessories",5.9,3,9
+Bedford,"Food and beverages",5,4.5,5.6
+Bedford,"Health and beauty",8.2,6.1,9.3
+Bedford,"Home and lifestyle",6.8,4,9
+"Big Spring","Electronic accessories",6.2,5.1,8
+"Big Spring","Fashion accessories",6.5,4,9
+"Big Spring","Health and beauty",7.7,6,8.4
+"Big Spring","Home and lifestyle",6.2,3,9
+"Big Spring","Sports and travel",7.3,6.8,8
+Brownsville,"Electronic accessories",7.1,5,9.5
+Brownsville,"Fashion accessories",6.5,3,9
+Brownsville,"Health and beauty",7.3,6.2,8.4
+Brownsville,"Home and lifestyle",6.4,3,9
+Brownsville,"Sports and travel",9.1,9,9.2
+Brownwood,"Fashion accessories",6.3,3,9
+Brownwood,"Food and beverages",7.8,6.4,9.2
+Brownwood,"Home and lifestyle",6.3,4,9
+Brownwood,"Sports and travel",8.1,5.1,9.9
+Bryan,"Electronic accessories",7.2,6.1,8.2
+Bryan,"Fashion accessories",6.8,4,9.9
+Bryan,"Food and beverages",6.6,4.5,9.1
+Bryan,"Health and beauty",6.8,5.8,7.9
+Bryan,"Home and lifestyle",6.4,4,9.1
+Bryan,"Sports and travel",7.2,4.5,10
+Burleson,"Electronic accessories",9.7,9.7,9.7
+Burleson,"Fashion accessories",6.3,3,9
+Burleson,"Food and beverages",4.8,4.8,4.8
+Burleson,"Health and beauty",4.9,4.9,4.9
+Burleson,"Home and lifestyle",6.2,3,9
+Burleson,"Sports and travel",7.4,6.6,8.3
+Canyon,"Electronic accessories",6.2,5,6.9
+Canyon,"Fashion accessories",6.1,3,9
+Canyon,"Health and beauty",6.9,5.8,8.9
+Canyon,"Home and lifestyle",6.2,3,9
+Canyon,"Sports and travel",6.3,5.2,7
+Carrollton,"Electronic accessories",8.7,8.7,8.7
+Carrollton,"Fashion accessories",6.4,3,9
+Carrollton,"Health and beauty",5.7,5.7,5.7
+Carrollton,"Home and lifestyle",6.1,4,9
+Carrollton,"Sports and travel",7.2,7.2,7.2
+"Cedar Park","Electronic accessories",6.6,5,8
+"Cedar Park","Fashion accessories",6.6,4,9.6
+"Cedar Park","Food and beverages",8.5,6.6,9.9
+"Cedar Park","Health and beauty",5.5,5.5,5.5
+"Cedar Park","Home and lifestyle",6.4,3,9
+"Cedar Park","Sports and travel",6.8,6.6,6.9
+Cleburne,"Electronic accessories",7.2,5.8,7.8
+Cleburne,"Fashion accessories",6,3,9
+Cleburne,"Health and beauty",4.9,4.2,5.6
+Cleburne,"Home and lifestyle",7,3,9
+Cleburne,"Sports and travel",7.7,6.4,9.6
+"College Station","Electronic accessories",8.4,7.2,9.7
+"College Station","Fashion accessories",6.7,4,9
+"College Station","Food and beverages",7.2,6.5,7.9
+"College Station","Health and beauty",10,10,10
+"College Station","Home and lifestyle",6.3,4,9
+Conroe,"Electronic accessories",6.4,4.3,8.5
+Conroe,"Fashion accessories",6.4,4,9
+Conroe,"Food and beverages",6.9,4,8.6
+Conroe,"Health and beauty",7,4.9,9.2
+Conroe,"Home and lifestyle",6.3,3,8
+Conroe,"Sports and travel",8,8,8
+Coppell,"Electronic accessories",6.4,4.9,7.6
+Coppell,"Fashion accessories",6.4,3,9
+Coppell,"Health and beauty",5.5,4,7
+Coppell,"Home and lifestyle",6.8,4,9
+Coppell,"Sports and travel",9.6,9.6,9.6
+"Corpus Christi","Electronic accessories",4.2,4.2,4.2
+"Corpus Christi","Fashion accessories",6,3,9
+"Corpus Christi","Food and beverages",7.4,7.4,7.4
+"Corpus Christi","Health and beauty",6.8,5.3,8.4
+"Corpus Christi","Home and lifestyle",6.6,3,9.7
+"Corpus Christi","Sports and travel",4.5,4.5,4.5
+Dallas,"Electronic accessories",8.1,6.1,9
+Dallas,"Fashion accessories",6,3,9.7
+Dallas,"Food and beverages",8.2,8,8.5
+Dallas,"Home and lifestyle",6,3,9
+Dallas,"Sports and travel",5.6,5.6,5.6
+"Del Rio","Fashion accessories",6.4,4,9
+"Del Rio","Food and beverages",9,8.4,9.6
+"Del Rio","Health and beauty",8,8,8
+"Del Rio","Home and lifestyle",5.8,3,9.9
+"Del Rio","Sports and travel",6.7,4.1,9.3
+Denton,"Electronic accessories",6.7,4.1,9
+Denton,"Fashion accessories",6.7,3,9.2
+Denton,"Food and beverages",4.2,4.2,4.2
+Denton,"Health and beauty",6.8,5,8.7
+Denton,"Home and lifestyle",6.7,3,9
+Denton,"Sports and travel",6.7,5.4,8.6
+DeSoto,"Fashion accessories",6.4,3,9
+DeSoto,"Food and beverages",6.8,6.3,7.4
+DeSoto,"Health and beauty",9.9,9.9,9.9
+DeSoto,"Home and lifestyle",6,3,9
+DeSoto,"Sports and travel",6.6,6.6,6.6
+"Eagle Pass","Electronic accessories",5.7,4.1,7.3
+"Eagle Pass","Fashion accessories",6,3,9
+"Eagle Pass","Food and beverages",6.5,4,9
+"Eagle Pass","Health and beauty",5.1,5.1,5.1
+"Eagle Pass","Home and lifestyle",6.4,4,9.6
+"Eagle Pass","Sports and travel",9.6,9.6,9.6
+Edinburg,"Electronic accessories",7,4.3,9.8
+Edinburg,"Fashion accessories",6.7,3,9
+Edinburg,"Health and beauty",8.6,8.6,8.6
+Edinburg,"Home and lifestyle",6,3,9
+Edinburg,"Sports and travel",6.5,5.1,7.8
+"El Paso","Fashion accessories",6.8,3,9.1
+"El Paso","Food and beverages",6,6,6
+"El Paso","Home and lifestyle",5.9,3,9.8
+"El Paso","Sports and travel",6.5,6.3,6.7
+Euless,"Electronic accessories",5.8,5,6.7
+Euless,"Fashion accessories",6,3,9
+Euless,"Food and beverages",6.8,4.5,8.8
+Euless,"Health and beauty",6.6,6.6,6.6
+Euless,"Home and lifestyle",6.6,4,9
+Euless,"Sports and travel",5.7,4.2,6.7
+"Farmers Branch","Electronic accessories",6.6,5,8.7
+"Farmers Branch","Fashion accessories",6.2,3,9
+"Farmers Branch","Food and beverages",6,4.6,7.5
+"Farmers Branch","Home and lifestyle",6.3,3,9
+"Flower Mound","Electronic accessories",7.3,5.9,9.8
+"Flower Mound","Fashion accessories",6.6,4,9
+"Flower Mound","Food and beverages",5.5,5.5,5.5
+"Flower Mound","Health and beauty",8,6.4,9.5
+"Flower Mound","Home and lifestyle",6.3,4,9.6
+"Flower Mound","Sports and travel",6,4.5,7.5
+"Fort Worth","Electronic accessories",6.8,5.1,9.9
+"Fort Worth","Fashion accessories",6.3,3,9
+"Fort Worth","Food and beverages",7.2,5.8,8.7
+"Fort Worth","Health and beauty",8.4,7.8,9
+"Fort Worth","Home and lifestyle",6.6,4,9
+Friendswood,"Electronic accessories",5.5,5.5,5.5
+Friendswood,"Fashion accessories",6.3,3,9
+Friendswood,"Food and beverages",9.1,8.5,9.5
+Friendswood,"Health and beauty",7.1,4.4,9.3
+Friendswood,"Home and lifestyle",5.9,4,9
+Friendswood,"Sports and travel",5.6,5.6,5.6
+Frisco,"Electronic accessories",8.8,7.8,9.7
+Frisco,"Fashion accessories",6.4,3,9
+Frisco,"Home and lifestyle",6.6,3,9
+Frisco,"Sports and travel",6.2,5.1,7.2
+Galveston,"Electronic accessories",6,5.5,6.4
+Galveston,"Fashion accessories",6,3,9.5
+Galveston,"Food and beverages",5.1,5.1,5.1
+Galveston,"Health and beauty",6,4.3,8.3
+Galveston,"Home and lifestyle",6.4,3,9
+Galveston,"Sports and travel",7.3,7.3,7.3
+Garland,"Fashion accessories",6.4,3,9.5
+Garland,"Food and beverages",6.9,4.2,9.9
+Garland,"Health and beauty",7.4,6,9.5
+Garland,"Home and lifestyle",6.2,4,9
+Georgetown,"Electronic accessories",8.3,7.6,9.4
+Georgetown,"Fashion accessories",6.2,3,9
+Georgetown,"Food and beverages",7.3,6.6,8.1
+Georgetown,"Health and beauty",5.3,5.3,5.3
+Georgetown,"Home and lifestyle",6.2,4,9.8
+Georgetown,"Sports and travel",4.9,4.9,4.9
+"Grand Prairie","Electronic accessories",4.3,4.3,4.3
+"Grand Prairie","Fashion accessories",5.9,3,9
+"Grand Prairie","Food and beverages",5.6,4.1,7.1
+"Grand Prairie","Home and lifestyle",6.2,3,9
+"Grand Prairie","Sports and travel",5,5,5
+Grapevine,"Electronic accessories",6.2,6.2,6.2
+Grapevine,"Fashion accessories",6.5,3,9
+Grapevine,"Food and beverages",6.7,6,7.6
+Grapevine,"Health and beauty",7.2,7.2,7.2
+Grapevine,"Home and lifestyle",6.1,3,9
+Grapevine,"Sports and travel",7.2,7.2,7.2
+"Haltom City","Electronic accessories",8,4.5,9.9
+"Haltom City","Fashion accessories",6.3,3,9
+"Haltom City","Food and beverages",5.9,5.9,5.9
+"Haltom City","Home and lifestyle",6.2,3,9.5
+"Haltom City","Sports and travel",9.7,9.7,9.7
+Harlingen,"Electronic accessories",9.6,9.6,9.6
+Harlingen,"Fashion accessories",6.6,4,9.2
+Harlingen,"Health and beauty",6.6,4.7,8.1
+Harlingen,"Home and lifestyle",6.1,3,9
+Harlingen,"Sports and travel",8.1,5.9,9.5
+Houston,"Electronic accessories",7.4,5.4,9.5
+Houston,"Fashion accessories",6.4,3,9.5
+Houston,"Home and lifestyle",6.2,3,9
+Houston,"Sports and travel",6.5,4.3,9.3
+Huntsville,"Electronic accessories",5.8,5.8,5.8
+Huntsville,"Fashion accessories",6.8,4,9.7
+Huntsville,"Food and beverages",8.1,6.4,9.1
+Huntsville,"Home and lifestyle",6.7,4,9
+Hurst,"Electronic accessories",5.6,4.7,6.5
+Hurst,"Fashion accessories",6.1,3,9
+Hurst,"Food and beverages",9.1,9.1,9.1
+Hurst,"Health and beauty",7.5,6.6,8.1
+Hurst,"Home and lifestyle",6.6,3,9
+Hurst,"Sports and travel",6.3,5.3,7.3
+Irving,"Electronic accessories",7.2,5,8.6
+Irving,"Fashion accessories",6.2,3,9.8
+Irving,"Health and beauty",7.6,7.6,7.6
+Irving,"Home and lifestyle",6.3,4,9.7
+Irving,"Sports and travel",5.3,5.3,5.3
+Kerrville,"Electronic accessories",6.5,6.5,6.5
+Kerrville,"Fashion accessories",6.8,3,9
+Kerrville,"Food and beverages",8.4,8.4,8.4
+Kerrville,"Health and beauty",8.3,7.9,8.7
+Kerrville,"Home and lifestyle",6.2,4,9
+Kerrville,"Sports and travel",5.2,4.2,6.5
+Killeen,"Electronic accessories",6.6,4.4,9.4
+Killeen,"Fashion accessories",6,3,9
+Killeen,"Food and beverages",8.3,7,9.1
+Killeen,"Health and beauty",8.2,6.7,9.8
+Killeen,"Home and lifestyle",6.9,4,9.1
+Killeen,"Sports and travel",6.4,5.3,7.4
+"La Porte","Fashion accessories",6.6,3,9.1
+"La Porte","Health and beauty",7,4.9,9.1
+"La Porte","Home and lifestyle",5.8,4,9
+"La Porte","Sports and travel",7.2,5.6,9.5
+"Lake Jackson","Fashion accessories",6.9,4,9
+"Lake Jackson","Health and beauty",7.2,7.2,7.2
+"Lake Jackson","Home and lifestyle",6.2,4,9
+"Lake Jackson","Sports and travel",6.4,4.2,8.6
+Lancaster,"Electronic accessories",7.7,5.6,9
+Lancaster,"Fashion accessories",5.8,4,9
+Lancaster,"Food and beverages",7.6,5,9.8
+Lancaster,"Home and lifestyle",5.9,3,9.4
+Lancaster,"Sports and travel",8.1,8.1,8.1
+Laredo,"Electronic accessories",9,9,9
+Laredo,"Fashion accessories",6.9,3,9.6
+Laredo,"Food and beverages",6.6,5.7,7.4
+Laredo,"Health and beauty",6.3,6.3,6.3
+Laredo,"Home and lifestyle",6.3,3,9
+"League City","Electronic accessories",6.9,6.5,7.3
+"League City","Fashion accessories",5.8,4,9
+"League City","Food and beverages",7.1,7.1,7.1
+"League City","Health and beauty",8.8,7.7,9.8
+"League City","Home and lifestyle",6.2,3,9
+"League City","Sports and travel",9.4,8.7,10
+Lewisville,"Electronic accessories",7.6,5.8,9.3
+Lewisville,"Fashion accessories",6.8,4,9
+Lewisville,"Food and beverages",4.4,4.4,4.4
+Lewisville,"Health and beauty",5.6,5.5,5.7
+Lewisville,"Home and lifestyle",5.5,3,9
+Lewisville,"Sports and travel",6.1,6.1,6.1
+"Little Elm","Electronic accessories",6.2,4.9,7.6
+"Little Elm","Fashion accessories",6.1,4,9.6
+"Little Elm","Food and beverages",5.2,4.2,6.4
+"Little Elm","Home and lifestyle",5.8,3,8
+"Little Elm","Sports and travel",5,5,5
+Longview,"Electronic accessories",6.9,6.3,7.5
+Longview,"Fashion accessories",6.4,4,9
+Longview,"Food and beverages",9,8,9.9
+Longview,"Health and beauty",8,8,8
+Longview,"Home and lifestyle",6.1,4,9
+Lubbock,"Electronic accessories",4.3,4.3,4.3
+Lubbock,"Fashion accessories",6.2,3,9
+Lubbock,"Food and beverages",7,7,7
+Lubbock,"Health and beauty",6.3,4.2,9.5
+Lubbock,"Home and lifestyle",6.1,3,9
+Lubbock,"Sports and travel",6.2,5.7,6.6
+Lufkin,"Electronic accessories",8.4,8.4,8.4
+Lufkin,"Fashion accessories",6,3,9.9
+Lufkin,"Food and beverages",8.6,7.2,9.9
+Lufkin,"Health and beauty",6.7,4.3,9.8
+Lufkin,"Home and lifestyle",6.2,3,9
+Lufkin,"Sports and travel",7.8,5.9,9.6
+Mansfield,"Electronic accessories",7.8,6.6,8.9
+Mansfield,"Fashion accessories",6,3,9
+Mansfield,"Food and beverages",6.6,5.8,8.1
+Mansfield,"Health and beauty",6.9,4,9.1
+Mansfield,"Home and lifestyle",6.7,4,9
+McAllen,"Fashion accessories",5.8,3,9
+McAllen,"Food and beverages",6.3,6.2,6.4
+McAllen,"Health and beauty",6,6,6
+McAllen,"Home and lifestyle",6.1,4,9
+McAllen,"Sports and travel",7.2,5.1,9.3
+McKinney,"Electronic accessories",7,7,7
+McKinney,"Fashion accessories",6.3,3,9
+McKinney,"Food and beverages",4,4,4
+McKinney,"Health and beauty",7,5.6,8.3
+McKinney,"Home and lifestyle",5.9,3,9
+McKinney,"Sports and travel",5.2,5.2,5.2
+Mesquite,"Electronic accessories",8.7,7,9.8
+Mesquite,"Fashion accessories",6.1,4,9
+Mesquite,"Food and beverages",7.5,7.5,7.5
+Mesquite,"Health and beauty",8.8,8.8,8.8
+Mesquite,"Home and lifestyle",6,3,9
+Mesquite,"Sports and travel",7.8,7.8,7.8
+Midland,"Electronic accessories",5.7,4.9,6.3
+Midland,"Fashion accessories",6.4,3,9
+Midland,"Food and beverages",6,6,6
+Midland,"Health and beauty",8,5.9,9.7
+Midland,"Home and lifestyle",6.4,4,9
+Midland,"Sports and travel",5.7,5.4,6
+"Mineral Wells","Electronic accessories",6.9,4.4,8.2
+"Mineral Wells","Fashion accessories",6.2,3,9
+"Mineral Wells","Food and beverages",6.2,6.2,6.2
+"Mineral Wells","Health and beauty",9.8,9.8,9.8
+"Mineral Wells","Home and lifestyle",6.4,3,9
+"Mineral Wells","Sports and travel",4.8,4.5,5.1
+Mission,"Fashion accessories",6.6,4,9
+Mission,"Food and beverages",8,7.7,8.3
+Mission,"Home and lifestyle",5.7,3,9
+Mission,"Sports and travel",7,7,7
+"Missouri City","Electronic accessories",6.3,4,8.6
+"Missouri City","Fashion accessories",5.7,4,9
+"Missouri City","Food and beverages",9.3,9.3,9.3
+"Missouri City","Health and beauty",7.9,7.3,8.9
+"Missouri City","Home and lifestyle",6.4,3,9
+"Missouri City","Sports and travel",9,9,9
+Nacogdoches,"Electronic accessories",7.2,6.4,8
+Nacogdoches,"Fashion accessories",6.3,3,9
+Nacogdoches,"Food and beverages",6,4.4,9.1
+Nacogdoches,"Home and lifestyle",6.4,4,9
+Nacogdoches,"Sports and travel",6.8,5,8.5
+"New Braunfels","Electronic accessories",5.9,5.9,5.9
+"New Braunfels","Fashion accessories",6.1,3,9
+"New Braunfels","Food and beverages",6.6,4.3,8.9
+"New Braunfels","Health and beauty",4.2,4.2,4.2
+"New Braunfels","Home and lifestyle",6.4,3,9
+"New Braunfels","Sports and travel",8.9,8.2,9.6
+"North Richland Hills","Electronic accessories",6.6,5.3,7.9
+"North Richland Hills","Fashion accessories",5.7,3,9
+"North Richland Hills","Food and beverages",5.9,5,6.3
+"North Richland Hills","Home and lifestyle",6.3,4,9.3
+"North Richland Hills","Sports and travel",7.7,7.4,8.2
+Odessa,"Electronic accessories",4.6,4.1,5
+Odessa,"Fashion accessories",6.3,4,9.3
+Odessa,"Food and beverages",8,7.7,8.3
+Odessa,"Home and lifestyle",6.2,3,9
+Odessa,"Sports and travel",4.8,4.8,4.8
+Pasadena,"Electronic accessories",8.4,8,8.8
+Pasadena,"Fashion accessories",5.9,3,9
+Pasadena,"Home and lifestyle",7,4,9
+Pasadena,"Sports and travel",6.9,5.5,9.3
+Pearland,"Electronic accessories",4.7,4.7,4.7
+Pearland,"Fashion accessories",6,4,9
+Pearland,"Food and beverages",6.4,6.4,6.4
+Pearland,"Home and lifestyle",6.7,3,9
+Pearland,"Sports and travel",6,4.3,7.7
+Pflugerville,"Electronic accessories",7.9,7.7,8.1
+Pflugerville,"Fashion accessories",6.6,3,9
+Pflugerville,"Food and beverages",6.6,4.3,7.7
+Pflugerville,"Health and beauty",6.8,4,8.4
+Pflugerville,"Home and lifestyle",6.8,4,9
+Pflugerville,"Sports and travel",6.9,4.2,9.9
+Pharr,"Electronic accessories",4.8,4.8,4.8
+Pharr,"Fashion accessories",6.1,3,9
+Pharr,"Food and beverages",7.3,4.2,9.9
+Pharr,"Health and beauty",9.2,9.2,9.2
+Pharr,"Home and lifestyle",6,4,9
+Pharr,"Sports and travel",9,9,9
+Plano,"Electronic accessories",6,4,8
+Plano,"Fashion accessories",5.3,3,9.4
+Plano,"Food and beverages",7,5.6,7.8
+Plano,"Home and lifestyle",5.2,3,9
+Plano,"Sports and travel",9.6,9.6,9.6
+"Port Arthur","Electronic accessories",4.5,3,7
+"Port Arthur","Fashion accessories",5.4,3,9.2
+"Port Arthur","Health and beauty",6.3,4.2,8.4
+"Port Arthur","Home and lifestyle",5.2,3,9
+"Port Arthur","Sports and travel",6.1,6.1,6.1
+Richardson,"Electronic accessories",5.2,4,7
+Richardson,"Fashion accessories",5.3,3,9.6
+Richardson,"Food and beverages",4.6,4,5.2
+Richardson,"Health and beauty",7.5,5,8.9
+Richardson,"Home and lifestyle",5.4,3,9.8
+Richardson,"Sports and travel",8.6,8.6,8.6
+Rockwall,"Electronic accessories",5.4,3,7
+Rockwall,"Fashion accessories",5.5,3,9
+Rockwall,"Food and beverages",5.6,4.8,6.5
+Rockwall,"Health and beauty",5.4,4.1,6.5
+Rockwall,"Home and lifestyle",5.1,3,9
+Rockwall,"Sports and travel",7.8,6.3,9.7
+Rosenberg,"Electronic accessories",5.8,3,9.8
+Rosenberg,"Fashion accessories",5.1,3,9
+Rosenberg,"Food and beverages",7.2,6,8.7
+Rosenberg,"Health and beauty",9.9,9.9,9.9
+Rosenberg,"Home and lifestyle",5,3,9.4
+Rosenberg,"Sports and travel",6.5,6.5,6.5
+"Round Rock","Electronic accessories",5.8,4,7
+"Round Rock","Fashion accessories",5.1,3,9.9
+"Round Rock","Food and beverages",8.9,8.9,8.9
+"Round Rock","Health and beauty",6.6,4.6,8.7
+"Round Rock","Home and lifestyle",5.2,3,9.3
+"Round Rock","Sports and travel",8.2,8.2,8.2
+Rowlett,"Electronic accessories",6,3,9.5
+Rowlett,"Fashion accessories",5.1,3,9.8
+Rowlett,"Food and beverages",5.8,5.4,6.1
+Rowlett,"Home and lifestyle",4.7,3,9
+"San Angelo","Electronic accessories",5.8,3,7
+"San Angelo","Fashion accessories",4.9,3,9
+"San Angelo","Food and beverages",8.4,8.2,8.5
+"San Angelo","Health and beauty",6.5,4.3,8.7
+"San Angelo","Home and lifestyle",5.4,3,8.7
+"San Angelo","Sports and travel",9.3,9.3,9.3
+"San Antonio","Electronic accessories",5.5,3,9.9
+"San Antonio","Fashion accessories",5.1,3,9
+"San Antonio","Food and beverages",6.5,5.6,7.6
+"San Antonio","Health and beauty",7,5,9.1
+"San Antonio","Home and lifestyle",5.5,3,9.5
+"San Antonio","Sports and travel",7.5,7,8
+"San Marcos","Electronic accessories",4.8,3,8.9
+"San Marcos","Fashion accessories",5,3,7
+"San Marcos","Food and beverages",6.3,4.6,8
+"San Marcos","Health and beauty",6.6,5,7.4
+"San Marcos","Home and lifestyle",4.9,3,7
+"San Marcos","Sports and travel",7.9,6.3,8.7
+Schertz,"Electronic accessories",4.7,3,7
+Schertz,"Fashion accessories",5.3,3,9.5
+Schertz,"Health and beauty",5.4,4.2,6.6
+Schertz,"Home and lifestyle",5.4,3,9.8
+Schertz,"Sports and travel",5.5,4.1,6.5
+Seguin,"Electronic accessories",5.1,3,7
+Seguin,"Fashion accessories",5.2,3,8
+Seguin,"Food and beverages",9.6,9.6,9.6
+Seguin,"Health and beauty",7.4,7,7.7
+Seguin,"Home and lifestyle",5.3,3,9
+Seguin,"Sports and travel",8.9,8.9,8.9
+Sherman,"Electronic accessories",4.7,3,7.6
+Sherman,"Fashion accessories",5.2,3,9.2
+Sherman,"Health and beauty",5.6,5.6,5.6
+Sherman,"Home and lifestyle",5,3,7
+Southlake,"Electronic accessories",5.6,3,7
+Southlake,"Fashion accessories",5.2,3,9
+Southlake,"Food and beverages",7.4,5.2,9.5
+Southlake,"Home and lifestyle",5.2,3,8.7
+Southlake,"Sports and travel",8.9,8.5,9.7
+"Sugar Land","Electronic accessories",5.4,4,7
+"Sugar Land","Fashion accessories",5.2,3,7.9
+"Sugar Land","Food and beverages",7.2,5.1,9.2
+"Sugar Land","Health and beauty",7.6,6,9.2
+"Sugar Land","Home and lifestyle",5.2,3,9
+"Sugar Land","Sports and travel",8.5,8.5,8.5
+Temple,"Electronic accessories",5.5,3,9.8
+Temple,"Fashion accessories",5.2,3,9
+Temple,"Food and beverages",7.3,7.3,7.3
+Temple,"Home and lifestyle",5.2,3,9
+Temple,"Sports and travel",6.5,4.1,9.8
+"Texas City","Electronic accessories",4.6,3,7
+"Texas City","Fashion accessories",5.1,3,7
+"Texas City","Food and beverages",5.7,5.5,5.9
+"Texas City","Health and beauty",6.5,4.9,8.6
+"Texas City","Home and lifestyle",4.9,3,7
+"Texas City","Sports and travel",5.5,4.5,6.5
+Tyler,"Electronic accessories",5.3,3,9.1
+Tyler,"Fashion accessories",5.5,3,9.4
+Tyler,"Home and lifestyle",5,3,8
+Victoria,"Electronic accessories",5.3,3,7.3
+Victoria,"Fashion accessories",5.2,3,9.5
+Victoria,"Home and lifestyle",5,3,7
+Waco,"Electronic accessories",5.4,3,9
+Waco,"Fashion accessories",5.5,3,9
+Waco,"Food and beverages",8.4,8.4,8.4
+Waco,"Health and beauty",7.6,5.3,9.3
+Waco,"Home and lifestyle",5.2,3,9
+Waco,"Sports and travel",5.6,5.6,5.6
+Waxahachie,"Electronic accessories",5.9,3,9
+Waxahachie,"Fashion accessories",5.1,3,9.2
+Waxahachie,"Food and beverages",7.5,7.5,7.5
+Waxahachie,"Health and beauty",7.2,4.8,9.5
+Waxahachie,"Home and lifestyle",5.1,3,9
+Waxahachie,"Sports and travel",6.2,5.2,7.4
+Weatherford,"Electronic accessories",6,5,7
+Weatherford,"Fashion accessories",5,3,7.4
+Weatherford,"Home and lifestyle",5.1,3,9
+Weatherford,"Sports and travel",5.2,4.2,6.2
+Weslaco,"Electronic accessories",5.1,3,8.4
+Weslaco,"Fashion accessories",5,3,9.5
+Weslaco,"Food and beverages",8.7,7.1,9.8
+Weslaco,"Health and beauty",6.8,4.3,9.2
+Weslaco,"Home and lifestyle",5.2,3,9.2
+Weslaco,"Sports and travel",5.6,4.1,7.1
