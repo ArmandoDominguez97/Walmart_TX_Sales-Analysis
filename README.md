@@ -29,7 +29,7 @@ This project explores transactional sales data across 100 Walmart locations in t
 
 ## Tools Used
 
-- **Python** — pandas, SQLAlchemy, pymysql
+- **Python** — pandas, SQLAlchemy, pymysql, csv2md
 - **MySQL** — Aggregations, CTEs, Window Functions (RANK, NTILE, LAG), CASE statements, date parsing
 - **Jupyter Notebook** — Data exploration and cleaning workflow
 
