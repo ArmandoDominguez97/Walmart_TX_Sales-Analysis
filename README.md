@@ -41,6 +41,7 @@ The following cleansing steps were taken before analysis:
 - **Null value handling** — 31 rows contained missing values in the `unit_price` and `quantity` columns. These were dropped using `dropna()` in the interest of time, though imputation could be explored as an alternative
 - **Type conversion** — `unit_price` was stored as a string with a leading `$` character. The dollar sign was stripped and the column was cast to `float`
 - **Feature engineering** — A `total` column was derived by multiplying `unit_price` by `quantity`, representing the gross transaction value
+- **csv to markdown conversion** - installed the [csv2md](https://github.com/lzakharov/csv2md) python package used to convert the outputs of each query from csv files to their respective markdown formats. The resulting markdown tables were then pasted with their respective query.
 
 ## Analysis (MySQL)
 
