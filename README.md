@@ -35,13 +35,13 @@ This project explores transactional sales data across 100 Walmart locations in t
 
 ## Data Cleaning (Python)
 
-The following cleansing steps were taken before analysis:
+The following [cleansing](https://github.com/ArmandoDominguez97/Walmart_TX_Sales-Analysis/blob/fe65b3b3892a38fd845bd1ade7241a01402926d6/walmart_summary_and_cleanse.ipynb) steps were taken before analysis:
 
 - **Duplicate removal** — 51 duplicate rows were identified and dropped using `drop_duplicates()`
 - **Null value handling** — 31 rows contained missing values in the `unit_price` and `quantity` columns. These were dropped using `dropna()` in the interest of time, though imputation could be explored as an alternative
 - **Type conversion** — `unit_price` was stored as a string with a leading `$` character. The dollar sign was stripped and the column was cast to `float`
 - **Feature engineering** — A `total` column was derived by multiplying `unit_price` by `quantity`, representing the gross transaction value
-- **csv to markdown conversion** - installed the [csv2md](https://github.com/lzakharov/csv2md) python package used to convert the outputs of each query from csv files to their respective markdown formats. The resulting markdown tables were then pasted with their respective query.
+- **CSV to markdown conversion** - installed the [csv2md](https://github.com/lzakharov/csv2md) python package used to convert the outputs of each query from csv files to their respective markdown formats. The resulting markdown tables were then pasted with their respective query. [Click here for file demonstrating my use of csv2md package](https://github.com/ArmandoDominguez97/Walmart_TX_Sales-Analysis/blob/fe65b3b3892a38fd845bd1ade7241a01402926d6/csv_to_markdown_table_converter_file.ipynb)
 
 ## Analysis (MySQL)
 
