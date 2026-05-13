@@ -183,6 +183,8 @@ WHERE cat_rank = 1;
 | WALM098 | Mineral Wells        | Health and beauty      | 9.8            | 1        |
 | WALM099 | Weatherford          | Electronic accessories | 6              | 1        |
 | WALM100 | Canyon               | Health and beauty      | 6.9            | 1        |
+
+</div>
 ---
 
 ### 3. Busiest Day of the Week per Branch
