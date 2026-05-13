@@ -78,7 +78,8 @@ WITH ranked AS (
 SELECT * FROM ranked
 WHERE cat_rank = 1;
 ```
-<div style="height: 200px; overflow-y: auto;">
+<details>
+  <summary>Click to expand table</summary>
 
 | branch  | city                 | category               | average_rating | cat_rank |
 | ------- | -------------------- | ---------------------- | -------------- | -------- |
@@ -184,7 +185,7 @@ WHERE cat_rank = 1;
 | WALM099 | Weatherford          | Electronic accessories | 6              | 1        |
 | WALM100 | Canyon               | Health and beauty      | 6.9            | 1        |
 
-</div>
+</details>
 ---
 
 ### 3. Busiest Day of the Week per Branch
