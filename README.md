@@ -204,7 +204,114 @@ WITH day_rank AS (
 SELECT * FROM day_rank
 WHERE weekday_rank = 1;
 ```
+<details>
+  <summary>Click to expand table</summary>
+  
+| branch  | city                 | category               | average_rating | cat_rank |
+| ------- | -------------------- | ---------------------- | -------------- | -------- |
+| WALM001 | Houston              | Electronic accessories | 7.4            | 1        |
+| WALM002 | Dallas               | Food and beverages     | 8.2            | 1        |
+| WALM003 | San Antonio          | Sports and travel      | 7.5            | 1        |
+| WALM004 | Austin               | Food and beverages     | 9.3            | 1        |
+| WALM005 | Fort Worth           | Health and beauty      | 8.4            | 1        |
+| WALM006 | El Paso              | Fashion accessories    | 6.8            | 1        |
+| WALM007 | Arlington            | Food and beverages     | 7.6            | 1        |
+| WALM008 | Corpus Christi       | Food and beverages     | 7.4            | 1        |
+| WALM009 | Plano                | Sports and travel      | 9.6            | 1        |
+| WALM010 | Laredo               | Electronic accessories | 9              | 1        |
+| WALM011 | Lubbock              | Food and beverages     | 7              | 1        |
+| WALM012 | Garland              | Health and beauty      | 7.4            | 1        |
+| WALM013 | Irving               | Health and beauty      | 7.6            | 1        |
+| WALM014 | Amarillo             | Electronic accessories | 6.8            | 1        |
+| WALM015 | Grand Prairie        | Home and lifestyle     | 6.2            | 1        |
+| WALM016 | Brownsville          | Sports and travel      | 9.1            | 1        |
+| WALM017 | McKinney             | Electronic accessories | 7              | 1        |
+| WALM018 | Frisco               | Electronic accessories | 8.8            | 1        |
+| WALM019 | Pasadena             | Electronic accessories | 8.4            | 1        |
+| WALM020 | Killeen              | Food and beverages     | 8.3            | 1        |
+| WALM021 | McAllen              | Sports and travel      | 7.2            | 1        |
+| WALM022 | Mesquite             | Health and beauty      | 8.8            | 1        |
+| WALM023 | Midland              | Health and beauty      | 8              | 1        |
+| WALM024 | Carrollton           | Electronic accessories | 8.7            | 1        |
+| WALM025 | Waco                 | Food and beverages     | 8.4            | 1        |
+| WALM026 | Denton               | Health and beauty      | 6.8            | 1        |
+| WALM027 | Abilene              | Health and beauty      | 9.7            | 1        |
+| WALM028 | Odessa               | Food and beverages     | 8              | 1        |
+| WALM029 | Round Rock           | Food and beverages     | 8.9            | 1        |
+| WALM030 | Richardson           | Sports and travel      | 8.6            | 1        |
+| WALM031 | Lewisville           | Electronic accessories | 7.6            | 1        |
+| WALM032 | Tyler                | Fashion accessories    | 5.5            | 1        |
+| WALM033 | Pearland             | Home and lifestyle     | 6.7            | 1        |
+| WALM034 | College Station      | Health and beauty      | 10             | 1        |
+| WALM035 | San Angelo           | Sports and travel      | 9.3            | 1        |
+| WALM036 | Allen                | Fashion accessories    | 6.6            | 1        |
+| WALM037 | League City          | Sports and travel      | 9.4            | 1        |
+| WALM038 | Sugar Land           | Sports and travel      | 8.5            | 1        |
+| WALM039 | Longview             | Food and beverages     | 9              | 1        |
+| WALM040 | Edinburg             | Health and beauty      | 8.6            | 1        |
+| WALM041 | Mission              | Food and beverages     | 8              | 1        |
+| WALM042 | Bryan                | Sports and travel      | 7.2            | 1        |
+| WALM043 | Baytown              | Sports and travel      | 6.4            | 1        |
+| WALM044 | Pharr                | Health and beauty      | 9.2            | 1        |
+| WALM045 | Missouri City        | Food and beverages     | 9.3            | 1        |
+| WALM046 | Temple               | Food and beverages     | 7.3            | 1        |
+| WALM047 | Flower Mound         | Health and beauty      | 8              | 1        |
+| WALM048 | Harlingen            | Electronic accessories | 9.6            | 1        |
+| WALM049 | North Richland Hills | Sports and travel      | 7.7            | 1        |
+| WALM050 | Victoria             | Electronic accessories | 5.3            | 1        |
+| WALM051 | New Braunfels        | Sports and travel      | 8.9            | 1        |
+| WALM052 | Mansfield            | Electronic accessories | 7.8            | 1        |
+| WALM053 | Conroe               | Sports and travel      | 8              | 1        |
+| WALM054 | Sherman              | Health and beauty      | 5.6            | 1        |
+| WALM055 | Waxahachie           | Food and beverages     | 7.5            | 1        |
+| WALM056 | Rowlett              | Electronic accessories | 6              | 1        |
+| WALM057 | Euless               | Food and beverages     | 6.8            | 1        |
+| WALM058 | Port Arthur          | Health and beauty      | 6.3            | 1        |
+| WALM059 | Pflugerville         | Electronic accessories | 7.9            | 1        |
+| WALM060 | DeSoto               | Health and beauty      | 9.9            | 1        |
+| WALM061 | Cedar Park           | Food and beverages     | 8.5            | 1        |
+| WALM062 | Galveston            | Sports and travel      | 7.3            | 1        |
+| WALM063 | Georgetown           | Electronic accessories | 8.3            | 1        |
+| WALM064 | Bedford              | Health and beauty      | 8.2            | 1        |
+| WALM065 | Texas City           | Health and beauty      | 6.5            | 1        |
+| WALM066 | Grapevine            | Sports and travel      | 7.2            | 1        |
+| WALM066 | Grapevine            | Health and beauty      | 7.2            | 1        |
+| WALM067 | Haltom City          | Sports and travel      | 9.7            | 1        |
+| WALM068 | Burleson             | Electronic accessories | 9.7            | 1        |
+| WALM069 | Rockwall             | Sports and travel      | 7.8            | 1        |
+| WALM070 | Hurst                | Food and beverages     | 9.1            | 1        |
+| WALM071 | Lufkin               | Food and beverages     | 8.6            | 1        |
+| WALM072 | Lancaster            | Sports and travel      | 8.1            | 1        |
+| WALM073 | Seguin               | Food and beverages     | 9.6            | 1        |
+| WALM074 | Weslaco              | Food and beverages     | 8.7            | 1        |
+| WALM075 | San Marcos           | Sports and travel      | 7.9            | 1        |
+| WALM076 | Huntsville           | Food and beverages     | 8.1            | 1        |
+| WALM077 | Coppell              | Sports and travel      | 9.6            | 1        |
+| WALM078 | Del Rio              | Food and beverages     | 9              | 1        |
+| WALM079 | La Porte             | Sports and travel      | 7.2            | 1        |
+| WALM080 | Nacogdoches          | Electronic accessories | 7.2            | 1        |
+| WALM081 | Friendswood          | Food and beverages     | 9.1            | 1        |
+| WALM082 | Weslaco              | Health and beauty      | 9.2            | 1        |
+| WALM083 | Farmers Branch       | Electronic accessories | 6.6            | 1        |
+| WALM084 | Schertz              | Sports and travel      | 5.5            | 1        |
+| WALM085 | Kerrville            | Food and beverages     | 8.4            | 1        |
+| WALM086 | Rosenberg            | Health and beauty      | 9.9            | 1        |
+| WALM087 | Waxahachie           | Health and beauty      | 7.2            | 1        |
+| WALM088 | Cleburne             | Sports and travel      | 7.7            | 1        |
+| WALM089 | Southlake            | Sports and travel      | 8.9            | 1        |
+| WALM090 | Brownwood            | Sports and travel      | 8.1            | 1        |
+| WALM091 | Little Elm           | Electronic accessories | 6.2            | 1        |
+| WALM092 | Lake Jackson         | Health and beauty      | 7.2            | 1        |
+| WALM093 | Angleton             | Food and beverages     | 7.7            | 1        |
+| WALM094 | Alamo                | Health and beauty      | 8              | 1        |
+| WALM095 | Big Spring           | Health and beauty      | 7.7            | 1        |
+| WALM096 | Eagle Pass           | Sports and travel      | 9.6            | 1        |
+| WALM097 | Alice                | Food and beverages     | 7.7            | 1        |
+| WALM098 | Mineral Wells        | Health and beauty      | 9.8            | 1        |
+| WALM099 | Weatherford          | Electronic accessories | 6              | 1        |
+| WALM100 | Canyon               | Health and beauty      | 6.9            | 1        |
 
+</details>
 ---
 
 ### 4. Category Ratings by City
