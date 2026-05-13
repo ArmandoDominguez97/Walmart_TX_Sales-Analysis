@@ -56,7 +56,11 @@ FROM walmart
 GROUP BY payment_method
 ORDER BY number_of_transactions DESC, total_quantity DESC;
 ```
-
+| payment_method | number_of_transactions | total_quantity |
+| -------------- | ---------------------- | -------------- |
+| Credit card    | 4256                   | 9567           |
+| Ewallet        | 3881                   | 8932           |
+| Cash           | 1832                   | 4984           |
 ---
 
 ### 2. Highest-Rated Category per Branch
